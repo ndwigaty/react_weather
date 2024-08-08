@@ -1,12 +1,12 @@
 :root {
 	--primary-color: #282c34;
-	--secondary-color: #61dafb;
+	--secondary-color: #4d628b;
 	--text-color: white;
   }
   
   body.light-mode {
 	--primary-color: #ffffff;
-	--secondary-color: #282c34;
+	--secondary-color: #61dafb;
 	--text-color: black;
   }
   
